@@ -8,8 +8,8 @@
     tags: # ignore "WhitelistChameleon" tag
       - DroneUsable
   - type: Sprite
-    sprite: AMeowStat\Clothing\Head\Hats\catearsblack.rsi
+    sprite: AMeowStat/Clothing/Head/Hats/catearsblack.rsi
   - type: Clothing
-    sprite: AMeowStat\Clothing\Head\Hats\catearsblack.rsi
+    sprite: AMeowStat/Clothing/Head/Hats/catearsblack.rsi
   - type: AddAccentClothing
     accent: OwOAccent

@@ -12,7 +12,7 @@
     tags:
     - Knife
   - type: Sprite
-    sprite: AMeowStat\Object\Weapons\Melee\knife_eviscerator.rsi
+    sprite: AMeowStat/Object/Weapons/Melee/knife_eviscerator.rsi
     size: 2
     state: icon
   - type: MeleeWeapon
@@ -28,4 +28,4 @@
   - type: Damageable
   - type: Item
     size: Small
-    sprite: AMeowStat\Object\Weapons\Melee\knife_eviscerator.rsi
+    sprite: AMeowStat/Object/Weapons/Melee/knife_eviscerator.rsi

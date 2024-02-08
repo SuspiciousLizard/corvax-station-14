@@ -16,9 +16,9 @@
           !type:SimpleColoring
             color: "#FFFFFF"
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\cat_parts.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/cat_parts.rsi
     state: ears_cat_outer
-  - sprite: AMeowStat\FurrySpecies\Customization\cat_parts.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/cat_parts.rsi
     state: ears_cat_inner
 
 - type: marking
@@ -39,9 +39,9 @@
           !type:SimpleColoring
             color: "#FFFFFF"
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\Earsfurry\foxears.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/Earsfurry/foxears.rsi
     state: fox_ears
-  - sprite: AMeowStat\FurrySpecies\Customization\Earsfurry\foxears.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/Earsfurry/foxears.rsi
     state: fox_dop
 
 - type: marking
@@ -51,7 +51,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\Earsfurry\bunnyears.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/Earsfurry/bunnyears.rsi
     state: bunny_ears
 
 - type: marking
@@ -61,7 +61,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\Earsfurry\dogears.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/Earsfurry/dogears.rsi
     state: dog_ears
 
 - type: marking
@@ -71,7 +71,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\cat_parts.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/cat_parts.rsi
     state: tail_cat_wag
 
 - type: marking
@@ -92,9 +92,9 @@
           !type:SimpleColoring
             color: "#FFFFFF"
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\foxtail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/foxtail.rsi
     state: tail_fox
-  - sprite: AMeowStat\FurrySpecies\Customization\foxtail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/foxtail.rsi
     state: tail_fox_dop
 
 - type: marking
@@ -104,7 +104,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\sharktail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/sharktail.rsi
     state: tail_shark
 
 - type: marking
@@ -114,7 +114,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\dogtail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/dogtail.rsi
     state: tail_dog
 
 - type: marking
@@ -124,7 +124,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\bunnytail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/bunnytail.rsi
     state: tail_bunny
 
 - type: marking
@@ -134,7 +134,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\shorttail.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/shorttail.rsi
     state: tail_short
 
 
@@ -145,7 +145,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\SnoutFurry\snoutmaw.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/SnoutFurry/snoutmaw.rsi
     state: maw
 
 - type: marking
@@ -155,7 +155,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\SnoutFurry\snoutfox.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/SnoutFurry/snoutfox.rsi
     state: fox
 
 - type: marking
@@ -165,7 +165,7 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\SnoutFurry\snouttoothy.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/SnoutFurry/snouttoothy.rsi
     state: toothy
 
 - type: marking
@@ -175,5 +175,5 @@
   forcedColoring: true
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\SnoutFurry\snoutprotogen.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/SnoutFurry/snoutprotogen.rsi
     state: protogen

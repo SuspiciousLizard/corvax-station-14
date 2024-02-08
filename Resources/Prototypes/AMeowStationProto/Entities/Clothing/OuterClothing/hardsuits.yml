@@ -6,9 +6,9 @@
   description: Его носят высокопоставленные члены Центрального Командования.
   components:
   - type: Sprite
-    sprite: AMeowStat\Clothing\OuterClothing\Hardsuits\centcomsuit.rsi
+    sprite: AMeowStat/Clothing/OuterClothing/Hardsuits/centcomsuit.rsi
   - type: Clothing
-    sprite: AMeowStat\Clothing\OuterClothing\Hardsuits\centcomsuit.rsi
+    sprite: AMeowStat/Clothing/OuterClothing/Hardsuits/centcomsuit.rsi
   - type: ToggleableClothing
     clothingPrototype: ClothingHeadHelmetHardsuitCentCom
 
@@ -20,9 +20,9 @@
   components:
   - type: BreathMask
   - type: Sprite
-    sprite: AMeowStat\Clothing\Head\Hardsuits-helmet\centcomhelmet.rsi
+    sprite: AMeowStat/Clothing/Head/Hardsuits-helmet/centcomhelmet.rsi
   - type: Clothing
-    sprite: AMeowStat\Clothing\Head\Hardsuits-helmet\centcomhelmet.rsi
+    sprite: AMeowStat/Clothing/Head/Hardsuits-helmet/centcomhelmet.rsi
   - type: PointLight
     color: yellow # Corvax-Resprite
   - type: Armor
