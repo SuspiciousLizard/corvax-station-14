@@ -5,9 +5,9 @@
   description: Почувствуй себя котиком UwU
   components:
   - type: Sprite
-    sprite: AMeowStat\Clothing\Hands\Gloves\pawsblack.rsi
+    sprite: AMeowStat/Clothing/Hands/Gloves/pawsblack.rsi
   - type: Clothing
-    sprite: AMeowStat\Clothing\Hands\Gloves\pawsblack.rsi
+    sprite: AMeowStat/Clothing/Hands/Gloves/pawsblack.rsi
   - type: Fiber
     fiberColor: fibers-white
   - type: MeleeWeapon

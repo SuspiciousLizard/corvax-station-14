@@ -5,7 +5,7 @@
   description: Пачка из 8 Сухариков состоящие из гамлета .
   components:
   - type: Sprite
-    sprite: AMeowStat\Object\Consumable\Food\Baked\croutons.rsi
+    sprite: AMeowStat/Object/Consumable/Food/Baked/croutons.rsi
     state: box
   - type: Storage
     capacity: 8
@@ -13,7 +13,7 @@
       tags:
       - Croutons
   - type: Item
-    sprite: AMeowStat\Object\Consumable\Food\Baked\croutons.rsi
+    sprite: AMeowStat/Object/Consumable/Food/Baked/croutons.rsi
     size: Small
     heldPrefix: box
   - type: StorageFill

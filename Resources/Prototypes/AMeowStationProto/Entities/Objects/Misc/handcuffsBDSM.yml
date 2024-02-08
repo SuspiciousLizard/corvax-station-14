@@ -7,10 +7,10 @@
   - type: Item
     size: 3
   - type: Handcuff
-    cuffedRSI: AMeowStat\handcuffsBDSM.rsi
+    cuffedRSI: AMeowStat/handcuffsbdsm.rsi
     bodyIconState: body-overlay
   - type: Sprite
-    sprite: AMeowStat\handcuffsBDSM.rsi
+    sprite: AMeowStat/handcuffsbdsm.rsi
     state: handcuff
   - type: Tag
     tags:

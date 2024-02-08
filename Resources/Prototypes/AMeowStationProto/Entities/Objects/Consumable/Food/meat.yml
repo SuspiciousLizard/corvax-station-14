@@ -5,7 +5,7 @@
   description: Мясо из представителей Фурри!
   components:
   - type: Sprite
-    sprite: AMeowStat\Object\Consumable\Food\furrymeat.rsi
+    sprite: AMeowStat/Object/Consumable/Food/furrymeat.rsi
     state: furry_meat
   - type: SolutionContainerManager
     solutions:
@@ -36,7 +36,7 @@
     - Cooked
     - Meat
   - type: Sprite
-    sprite: AMeowStat\Object\Consumable\Food\furrymeat.rsi
+    sprite: AMeowStat/Object/Consumable/Food/furrymeat.rsi
     layers:
     - state: furry_meat_cooked
   - type: SolutionContainerManager

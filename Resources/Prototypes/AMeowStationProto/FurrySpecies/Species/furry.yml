@@ -71,83 +71,83 @@
 - type: humanoidBaseSprite
   id: MobFurryHead
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobFurryHeadMale
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobFurryHeadFemale
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: head_f
 
 - type: humanoidBaseSprite
   id: MobFurryTorso
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobFurryTorsoMale
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobFurryTorsoFemale
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: torso_f
 
 - type: humanoidBaseSprite
   id: MobFurryLLeg
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: l_leg
 
 - type: humanoidBaseSprite
   id: MobFurryLArm
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: l_arm
 
 - type: humanoidBaseSprite
   id: MobFurryLHand
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: l_hand
 
 - type: humanoidBaseSprite
   id: MobFurryLFoot
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: l_foot
 
 - type: humanoidBaseSprite
   id: MobFurryRLeg
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: r_leg
 
 - type: humanoidBaseSprite
   id: MobFurryRArm
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: r_arm
 
 - type: humanoidBaseSprite
   id: MobFurryRHand
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: r_hand
 
 - type: humanoidBaseSprite
   id: MobFurryRFoot
   baseSprite:
-    sprite: AMeowStat\FurrySpecies\furry.rsi
+    sprite: AMeowStat/FurrySpecies/furry.rsi
     state: r_foot

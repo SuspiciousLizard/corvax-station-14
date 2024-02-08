@@ -14,7 +14,7 @@
     denyState: deny-unshaded
     ejectDelay: 1.5
   - type: Sprite
-    sprite: AMeowStat\Structures\Machines\furrymat.rsi
+    sprite: AMeowStat/Structures/Machines/furrymat.rsi
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

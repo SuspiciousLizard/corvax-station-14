@@ -8,7 +8,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Male
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: torso_male
 
 - type: marking
@@ -18,7 +18,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Female
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: torso_female
 
 - type: marking
@@ -27,7 +27,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: left_arm
 
 - type: marking
@@ -36,7 +36,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: right_arm
 
 - type: marking
@@ -45,7 +45,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: left_hand
 
 - type: marking
@@ -54,7 +54,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: right_hand
 
 - type: marking
@@ -63,7 +63,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: left_leg
 
 - type: marking
@@ -72,7 +72,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: right_leg
 
 - type: marking
@@ -81,7 +81,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: left_foot
 
 - type: marking
@@ -90,7 +90,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\basicdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/basicdop.rsi
     state: right_foot
 
 
@@ -105,7 +105,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Male
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: torso_male
 
 - type: marking
@@ -115,7 +115,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Female
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: torso_female
 
 - type: marking
@@ -124,7 +124,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: left_arm
 
 - type: marking
@@ -133,7 +133,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: right_arm
 
 - type: marking
@@ -142,7 +142,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: left_hand
 
 - type: marking
@@ -151,7 +151,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: right_hand
 
 - type: marking
@@ -160,7 +160,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: left_leg
 
 - type: marking
@@ -169,7 +169,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: right_leg
 
 - type: marking
@@ -178,7 +178,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: left_foot
 
 - type: marking
@@ -187,7 +187,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\leoparddop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/leoparddop.rsi
     state: right_foot
 
 
@@ -201,7 +201,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Male
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: torso_male
 
 - type: marking
@@ -211,7 +211,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Female
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: torso_female
 
 - type: marking
@@ -220,7 +220,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: left_arm
 
 - type: marking
@@ -229,7 +229,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: right_arm
 
 - type: marking
@@ -238,7 +238,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: left_hand
 
 - type: marking
@@ -247,7 +247,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: right_hand
 
 - type: marking
@@ -256,7 +256,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: left_leg
 
 - type: marking
@@ -265,7 +265,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: right_leg
 
 - type: marking
@@ -274,7 +274,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: left_foot
 
 - type: marking
@@ -283,7 +283,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\spotsdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/spotsdop.rsi
     state: right_foot
 
 
@@ -298,7 +298,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Male
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: torso_male
 
 - type: marking
@@ -308,7 +308,7 @@
   speciesRestriction: [Furry]
   sexRestriction: Female
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: torso_female
 
 - type: marking
@@ -317,7 +317,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: left_arm
 
 - type: marking
@@ -326,7 +326,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: right_arm
 
 - type: marking
@@ -335,7 +335,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: left_hand
 
 - type: marking
@@ -344,7 +344,7 @@
   markingCategory: Arms
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: right_hand
 
 - type: marking
@@ -353,7 +353,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: left_leg
 
 - type: marking
@@ -362,7 +362,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: right_leg
 
 - type: marking
@@ -371,7 +371,7 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: left_foot
 
 - type: marking
@@ -380,5 +380,5 @@
   markingCategory: Legs
   speciesRestriction: [Furry]
   sprites:
-  - sprite: AMeowStat\FurrySpecies\Customization\DopColors\tigerdop.rsi
+  - sprite: AMeowStat/FurrySpecies/Customization/DopColors/tigerdop.rsi
     state: right_foot
