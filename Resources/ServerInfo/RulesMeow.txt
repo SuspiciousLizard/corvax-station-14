@@ -1,0 +1,103 @@
+[log]
+path = "logs"
+format = "log_%(date)s-%(time)s.txt"
+level = 1
+enabled = true
+
+[net]
+tickrate = 60
+port = 1212
+bindto = "::,0.0.0.0"
+
+[status]
+enabled = true #Могут ли игроки заходить на сервер
+
+[game]
+hostname = "[RU][18+][FurryRp] - gosuslugi station" #Что показывается в хабе
+desc = "Фурри рп сервер с пониженным уровнем ролевого отыгрыща и возможностью ЕРП. \n Скоро обновление." #описание в хабе
+maxplayers = 100 #Реальный лимит игроков
+lobbyenabled = true #Включено лобби, или игроков кидает сразу в раунд
+soft_max_players = 100 #Лимит игроков показываемый в лобби
+lobbyduration = 180 #Время в лобби до старта раунда
+maxcharacterslots = 5 #Макс. кол-во слотов персонажей
+cryo_sleep_rejoining = true #Могут ли те кто лег в крио и отключился вернуться обратно в тело в крио
+station_offset = false #Изменение положения станции со старта раунда
+station_rotation = false #Изменение поворота станции со старта раунда
+round_restart_time = 180 #Время от манифеста до конца раунда
+
+[console]
+loginlocal = true
+
+[hub]
+advertise = true #Показывается ли сервер в хабе
+tags = "rp:low, lang:ru, region:eu_e" #Теги для фильтров в хабе. Рп: Низкий, Язык: Русский, Регион: Европа_восточная
+server_url = "" #Дополнительный юрл сервера, если имеется
+
+[build]
+
+[auth]
+mode = 0 #бляхз тут был по английски коммент я его снес
+
+[server]
+rules_file = "RulesNew" #название файла с правилами в папке правил
+
+[discord]
+ahelp_webhook = "https://discord.com/api/webhooks/Ссылка" #Ссылка на вебхук ахелпа для дискорда
+
+[infolinks] #Инфоссылки. Все кроме последней это кнопки в хабе в описании сервера
+discord = "https://discord.gg/corvax" #Ссылка на дс
+website = "https://boosty.to/corvax" #Сайт
+appeal = "https://discord.gg/corvax" #Ссылка на обжалование
+
+[admin]
+role_ban_default_severity = "high" #Тяжесть устанавливаемых банов по умолчанию
+department_ban_default_severity = "high"
+server_ban_default_severity = "high"
+new_player_threshold = 60 #До того как игрок отыграл Х количество минут писать у его ника в ахелпе "Новый игрок"
+
+[atmos]
+space_wind = true #Космоветер. Выталкивание игроков газами
+space_wind_max_velocity = 60 #Макс. скорость с которой тебя запульнет вветер
+space_wind_max_push_force = 40 #Макс. сила выталкивания (тяжелые объекты)
+monstermos_rip_tiles = true #Срывает ли плитки при разгерме
+grid_impulse = true #Толкает ли грид разгерма
+mmos_spacing_speed = 0.1 #Сколько процентов газа из помещения выходит за секунду. 0.1 = 10 процентов
+
+[ooc]
+enable_during_round = true #Включен ли ООС чат во время раунда
+
+[vote]
+restart_required_ratio = 0.51 #Процент игроков проголосовавших за рестарт раунда для его рестарта. 0.51 = 51% за = рестарт
+timermap = 60 # Сколько секунд длится голосование по смене карты
+
+[procgen]
+preload = false #Предзагрузка карты с экпами хз не тестил
+
+[shuttle]
+arrivals = false #Включены шаттл и станция прибытия или экипаж спавнится на станции (в крио)
+emergency_early_launch_allowed = true #Разрешен ли досрочный запуск эвака тремя авторизациями
+emergency_authorize_time = 15 #Через сколько секунд от авторизации эвак запустится
+emergency_transit_time_max = 90 #Макс. время полета эвака до цк
+recall_turning_point = 0.9 #Спустя сколько процентов времени после вызова эвак более нельзя отозвать. 0.9 = 90%, значит по прошествии 9-и минут из 10и эвак нельзя отозвать. Прошло 8 минут после вызова можно, прошло 9 минут нельзя
+auto_call_time = 120 #Спустя сколько минут от начала раунда вызывается авто-эвак
+auto_call_extension_time = 30 #Спустя сколько минут от последнего отзыва шаттла вызывается авто-эвак
+
+[chat]
+max_message_length = 2000 #Макс. длина сообщения в чате
+max_announcement_length = 512 #Макс. длина оповещения по консоли связи
+
+[rules]
+time = 30 #Сколько минимум секунд игрок должен смотреть правила
+
+[netres]
+store_deletion_days = 15 #Сколько дней хранятся загруженные файлы с момента загрузки (uploadfolder uploadfile)
+
+[ic]
+flavor_text = true #Описание персонажей
+
+[salvage]
+expedition_duration = 660 #Сколько длится экспа
+expedition_cooldown = 600 #Как скоро после принятия экспы можно принять следующую
+
+[worldgen]
+enabled = true #Включена ли процедурная генерация астероидов вокруг станции
