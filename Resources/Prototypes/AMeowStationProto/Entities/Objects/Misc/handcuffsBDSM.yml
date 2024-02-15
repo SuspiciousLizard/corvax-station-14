@@ -1,7 +1,7 @@
 - type: entity
   name: Пушистые Наручники
-  description: Мягкие наручники
-  id: HandcuffsBDSM
+  description: Мягкие наручники.
+  id: handcuffsbdsm
   parent: BaseItem
   components:
   - type: Item
